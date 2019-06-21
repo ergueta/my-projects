@@ -8,3 +8,4 @@ There are some projects in the field of optimization, metaheuristics and control
 - Kalman Filter and Extended Kalman Filter with a sample system
 - Integer Programming to solve bin packing problem
 - Recursive Least Squares with lambda with a sample system 
+- Supervised Machine Learning workshop with Jupyter notebooks, Churn and Torque analysis
